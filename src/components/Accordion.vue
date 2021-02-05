@@ -24,16 +24,9 @@
 import gsap from 'gsap'
 
 export default {
-  props: {
-    defaultOpen: {
-      type: Boolean,
-      required: false,
-      default: true
-    }
-  },
   data () {
     return {
-      isOpen: this.defaultOpen
+      isOpen: true
     }
   },
   methods: {
