@@ -1,1 +1,1 @@
-# vue-autoheight
+# vue-accordion
